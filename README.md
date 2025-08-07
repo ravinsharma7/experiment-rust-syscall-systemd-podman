@@ -7,6 +7,7 @@ Experimenting what library is used for calling syscall, systemd api, and podman 
 # Libs  
 [conmon-rs](https://github.com/containers/conmon-rs)  
 [libsystemd-rs](https://github.com/lucab/libsystemd-rs)  
+[rust-systemd](https://github.com/codyps/rust-systemd)  
 [systemctl](https://docs.rs/systemctl/latest/systemctl/)  
 [zbus_systemd](https://github.com/lucab/zbus_systemd)  
 [reqwest](https://github.com/seanmonstar/reqwest)  
